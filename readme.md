@@ -1,4 +1,4 @@
-# tetr.js
+# Meme Economy tetr.js
 
 [Have a try](http://farter.cn/tetr.js) in your browser.
 
