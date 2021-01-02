@@ -1,6 +1,6 @@
 # Meme Economy tetr.js
 
-[Have a try](http://farter.cn/tetr.js) in your browser.
+[cuisine.lol](https://cuisine.lol)
 
 ### Default Controls:
 
